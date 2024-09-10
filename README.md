@@ -1,13 +1,21 @@
-### Sociais
+<h1 align="center">👋 Olá, eu sou Allyns</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allyn_strz/)
+<p align="center">
+  💻 Estudante de Ciência da Computação 
+</p><br><br>
 
- 
-![Ellyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyn&show_icons=true&theme=dracula)
 
-### Tecnologias ultilizadas
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)<br><br>
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Phytom" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   
-</div>
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,github)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allyn_strz/) <br><br>
+
+
+![AllysonJesus GitHub stats](https://github-readme-stats.vercel.app/api?username=AllysonJesus&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
