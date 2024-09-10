@@ -1,6 +1,6 @@
 ### Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/allyn_strz/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/allyn_strz/)]
 
  
 ![Ellyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyn&show_icons=true&theme=dracula)
