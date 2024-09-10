@@ -1,8 +1,7 @@
 ### Opa, Eu sou Ellyns
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allyns_strz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ellyn_strz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ellyn_strz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/allyns_strz](https://www.instagram.com/allyn_strz/))
+
  
 ![Ellyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellyn&show_icons=true&theme=dracula)
 
